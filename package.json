@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Browser extension to fix something about enter key (guessing from project name)",
   "main": "background.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint ."
