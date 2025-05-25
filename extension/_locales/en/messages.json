@@ -1,0 +1,10 @@
+{
+    "name": {
+        "message": "Smart Enter",
+        "description": "extension name"
+    },
+    "description": {
+        "message": "Fixes Enter and Ctrl+Enter",
+        "description": "extension description"
+    }
+}
