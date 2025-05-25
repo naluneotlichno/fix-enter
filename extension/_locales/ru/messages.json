@@ -1,0 +1,10 @@
+{
+    "name": {
+        "message": "Умный Enter",
+        "description": "extension name"
+    },
+    "description": {
+        "message": "Исправляет Enter и Ctrl+Enter",
+        "description": "extension description"
+    }
+}
